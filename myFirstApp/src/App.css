@@ -1,0 +1,26 @@
+.custom-title {
+  color: black;
+  font: size 24px;
+  text-align: center;
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(138, 253, 163);
+}
+body {
+    background-color: #f8fcfa;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 48px;
+  }
+
+h1 {
+    color:rgb(3, 78, 41);
+    text-align: center;
+}
+
+.footer-text {
+  text-align: center;
+  width: 100%;
+  color:rgb(248, 246, 246);
+  font-size: 24px;
+  background-color: seagreen;
+}
